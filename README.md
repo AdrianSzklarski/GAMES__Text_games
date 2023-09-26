@@ -101,7 +101,7 @@ Programme code written by A.Szklarski 01.2022r.
 </ul>
 
 ## Use of the programme:
-<p>Under construction</p>
+<p>The user comes up with a number between 1 and 1000 and the computer has to guess it in max. 10 moves.  </p>
 
 ## Author:
-Programme code written by A.Szklarski 12.2021r.
+Programme code written by A.Szklarski 09.2023r.
